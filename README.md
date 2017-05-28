@@ -1,2 +1,3 @@
 # partners
-Partners &amp; Sponsors
+
+请在 [https://github.com/teamhola/partners/issues](Issues) 发起请求。
